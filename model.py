@@ -1,0 +1,1 @@
+print('git without commit message')
